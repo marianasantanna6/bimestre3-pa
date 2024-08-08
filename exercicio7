@@ -1,0 +1,6 @@
+let salario1= 950
+let salario2= 1970
+
+if ((salario1+ salario2)/2 > 2000) {
+console.log ("R$",salario1, "R$",salario2)
+}
